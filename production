@@ -1,2 +1,2 @@
-put -rp /home/rof/clone /var/www/html
+put -rp ./* /var/www/html
 
